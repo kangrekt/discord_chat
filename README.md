@@ -14,7 +14,8 @@ cd discord_chat
 ```
 2. INSTALL BAHAN
 ```
-npm install
+npm init -y
+npm install readline-sync axios
 ```
 3. JALANKAN BOT
 ```
