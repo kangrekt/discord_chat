@@ -4,6 +4,7 @@ DISCORD AUTO CHAT
 - Hanya 1x Chat cocok untuk push faucet pada DC
 - Hanya 1 channel
 - Multi akun
+- Auto looping (Input manual jeda)
 
 ## CARA INSTALL
 1. CLONE BOT
